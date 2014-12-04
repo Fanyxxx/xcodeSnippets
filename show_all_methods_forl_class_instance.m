@@ -1,5 +1,5 @@
 // Show all methods forl class instance
-// 
+// Allow log all methods of current class
 //
 // IDECodeSnippetCompletionPrefix: logAllMethods
 // IDECodeSnippetCompletionScopes: [ClassInterfaceMethods]
