@@ -2,7 +2,7 @@
 // Allow log all methods of current class
 //
 // IDECodeSnippetCompletionPrefix: logAllMethods
-// IDECodeSnippetCompletionScopes: [ClassImplementation]
+// IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: FE9F7A0A-48F8-499A-B38E-7C8D5AFA02FD
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
