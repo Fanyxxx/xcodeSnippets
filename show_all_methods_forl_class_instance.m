@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: FE9F7A0A-48F8-499A-B38E-7C8D5AFA02FD
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 int i=0;
 unsigned int mc = 0;
 Method * mlist = class_copyMethodList(object_getClass(<#class_name#>), &mc);
